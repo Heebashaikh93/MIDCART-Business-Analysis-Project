@@ -33,6 +33,3 @@ Documentation & Collaboration
 Jira
 Confluence
 
-MidCart_BRD.docx	Business Requirements Document containing project requirements, business objectives, scope, and process details
-MidCart_Order_Analysis.xlsx	Excel-based analysis of customer, product, and order data
-README.md	
